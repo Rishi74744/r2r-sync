@@ -1,0 +1,8 @@
+{
+  "status": "FAILURE",
+  "errorCode": "TIMEOUT",
+  "retryable": true,
+  "data": {
+    "message": "Connection timed out"
+  }
+}

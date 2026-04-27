@@ -1,0 +1,8 @@
+{
+  "status": "FAILURE",
+  "errorCode": "INTERNAL_ERROR",
+  "retryable": true,
+  "data": {
+    "message": "Internal server error, please retry"
+  }
+}

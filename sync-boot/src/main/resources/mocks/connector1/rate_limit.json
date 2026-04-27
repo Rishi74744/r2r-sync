@@ -1,0 +1,8 @@
+{
+  "status": "FAILURE",
+  "errorCode": "RATE_LIMIT",
+  "retryable": true,
+  "data": {
+    "message": "Too many requests"
+  }
+}

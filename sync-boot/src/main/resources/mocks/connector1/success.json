@@ -1,0 +1,8 @@
+{
+  "status": "SUCCESS",
+  "errorCode": null,
+  "retryable": false,
+  "data": {
+    "message": "Sync successful"
+  }
+}
